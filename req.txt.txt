@@ -1,9 +1,0 @@
-NOTE: User you would be requiring these dependencies to run/ this model. so make sure you have all of tihs
-
-
-streamlit==1.29.0
-pandas==2.1.4
-numpy==1.26.2
-scikit-learn==1.3.2
-xgboost==2.0.3
-plotly==5.18.0
